@@ -1,0 +1,5 @@
+.vscode/
+neat-python
+/.idea/
+pysc2/agents/__pycache__/visualize.cpython-36.pyc
+*.pyc
